@@ -1,0 +1,8 @@
+parameters:
+
+
+database:
+    dsn: 'mysql:host=localhost;dbname=uloha_eshop'
+    user: root
+    password:
+
